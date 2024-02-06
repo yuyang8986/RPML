@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPML", "RPML\RPML.csproj", "{B947CE57-2536-47D0-8BD2-D3E278F85CA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPModelV1_WebApi", "RPModelV1_WebApi\RPModelV1_WebApi.csproj", "{2F6CDB34-0D54-4195-B140-6A0884C08329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B947CE57-2536-47D0-8BD2-D3E278F85CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B947CE57-2536-47D0-8BD2-D3E278F85CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B947CE57-2536-47D0-8BD2-D3E278F85CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B947CE57-2536-47D0-8BD2-D3E278F85CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6CDB34-0D54-4195-B140-6A0884C08329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6CDB34-0D54-4195-B140-6A0884C08329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6CDB34-0D54-4195-B140-6A0884C08329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6CDB34-0D54-4195-B140-6A0884C08329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC48DEC5-3C2A-49C5-A384-B39B00D120EE}
+	EndGlobalSection
+EndGlobal
